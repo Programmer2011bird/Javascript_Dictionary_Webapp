@@ -1,10 +1,1 @@
-ENDPOINT : https://api.dictionaryapi.dev/api/v2/entries/en/{word}
 
-JSON PROPERTIES : 
-- word 
-- phonetic 
-- meanings | partOfSpeech
-- meanings | definitions | definition
-- meanings | definitions | example 
-- meanings | definitions | synonyms
-- meanings | definitions | antonyms
